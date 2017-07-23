@@ -1,0 +1,57 @@
+<div id="wrapper">
+
+	<div id="header">
+		<div id="nav"><a href="index.html">Home</a> | <a href="#">About Me</a> | <a href="#">Contact Me</a> |
+    <div id="page-name"><h1>Eric Price</h1></div>
+	</div>
+
+	<div id="main-content">
+		<div id="left-column">
+			<!-- <div id="logo">
+			Welcome to Eric Price's Webpage
+			</div> -->
+			<div class="box">
+        		<h1>Want to know me?</h1>
+        		<p>Here are some of my interests:</p>
+				<ul style="margin-top:10px;">
+					<li>Saying "That's interesting!"</li>
+					<li>Practicing card flourishes</li>
+					<li>Wearing underwear</li>
+					<li>Guitars</li>
+				</ul>
+			</div>
+			<h2>A Couple of My Favorite Quotes</h2>
+			<p>
+				<img src="https://s-media-cache-ak0.pinimg.com/736x/13/59/da/1359daa4b85d428d90727cd7939e8619--love-this-fall-in-love-with.jpg
+            " width="139" height="150" style="margin: 0 10px 10px 0;float:left;" />
+				<em>“One of the tasks of true friendship is to listen compassionately
+          and creatively to the hidden silences. Often secrets are not revealed
+          in words, they lie concealed in the silence between the words or in
+          the depth of what is unsayable between two people.”
+        </em> ― John O'Donohue, Anam Cara: A Book of Celtic Wisdom<br/>
+				<em>“Beauty is the illumination of your soul.”
+        </em> ― John O'Donohue, Anam Cara: A Book of Celtic Wisdom<br/>
+			</p>
+		</div>
+		<div id="right-column">
+			<div id="main-image"><img src="http://magicathand.com//wp-content/uploads/2014/06/magic5-198x300.jpg
+         " width="160" height="188" /></div>
+			<div class="sidebar">
+				<h3>Recipes to share:</h3>
+				<div class="box">
+					<ul>
+						<li><a href="http://www.realthairecipes.com/recipes/mushroom-coconut-milk-soup/#comments" target="_blank">Thai Soup</a></li>
+						<li><a href="http://thaifood.about.com/video/Green-Curry-Chicken.htm" target="_blank">Chicken Curry</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="main-image">.col-md-8</div>
+  <div id=><img src="http://magicathand.com//wp-content/uploads/2014/06/magic5-198x300.jpg
+   " width="160" height="188" /></div>
+<!-- <div id="main-image"><img src="http://magicathand.com//wp-content/uploads/2014/06/magic5-198x300.jpg
+   " width="160" height="188" /></div>     -->
+<div class="goals">.col-md-4</div>
